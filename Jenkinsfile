@@ -39,7 +39,7 @@ pipeline {
                     orchestratorAddress: 'https://cloud.uipath.com/',
                     orchestratorTenant: 'DefaultTenant',
                     outputPath: "Output\\${env.BUILD_NUMBER}",
-                    outputType: 'Library',
+                    outputType: 'Process',
                     projectJsonPath: "project.json",
                     version: [$class: 'ManualVersionEntry', version: "${MAJOR}.${MINOR}.${env.BUILD_NUMBER}"],
                     useOrchestrator: true,
