@@ -35,10 +35,14 @@ pipeline {
             steps {
                 echo "Building..with ${WORKSPACE}"
                 UiPathPack (
+                    credentials: Token(accountName: 'nithinsuicloud', credentialsId: 'APIUserKey'),
+                    orchestratorAddress: 'https://cloud.uipath.com/',
+                    orchestratorTenant: 'DefaultTenant',
                     outputPath: "Output\\${env.BUILD_NUMBER}",
+                    outputType: 'Library',
                     projectJsonPath: "project.json",
                     version: [$class: 'ManualVersionEntry', version: "${MAJOR}.${MINOR}.${env.BUILD_NUMBER}"],
-                    useOrchestrator: false,
+                    useOrchestrator: true,
                     traceLevel: 'None'
                 )
             }
