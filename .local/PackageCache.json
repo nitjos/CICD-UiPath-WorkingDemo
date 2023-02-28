@@ -40,10 +40,10 @@
         "C:\\Users\\RPATraining\\.nuget\\packages\\google.apis.gmail.v1\\1.51.0.2251\\lib/netstandard2.0/Google.Apis.Gmail.v1.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\google.apis.peopleservice.v1\\1.51.0.2301\\lib/netstandard2.0/Google.Apis.PeopleService.v1.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\mailkit\\2.10.0\\lib/netstandard2.0/MailKit.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\lib/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll",
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.graph\\3.32.0\\lib/netstandard2.0/Microsoft.Graph.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.graph.core\\1.25.1\\lib/netstandard1.1/Microsoft.Graph.Core.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib/netcoreapp2.1/Microsoft.Identity.Client.dll",
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.identity.client\\4.32.0\\lib/netcoreapp2.1/Microsoft.Identity.Client.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\mimekit\\2.10.0\\lib/netstandard2.0/MimeKit.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\nito.asyncex.context\\5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Context.dll",
@@ -94,12 +94,15 @@
         "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.codeanalysis.common\\3.8.0\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\3.8.0\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.VisualBasic.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib/net6.0/Microsoft.Extensions.Logging.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\lib/net6.0/Microsoft.Extensions.Options.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib/net6.0/Microsoft.Extensions.Primitives.dll",
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll",
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll",
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.management.infrastructure.cimcmdlets\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.Management.Infrastructure.CimCmdlets.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll",
@@ -123,7 +126,6 @@
         "C:\\Users\\RPATraining\\.nuget\\packages\\system.data.odbc\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.Data.Odbc.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\system.data.oledb\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Data.OleDb.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\system.data.sqlclient\\4.8.1\\runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\system.directoryservices.accountmanagement\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.AccountManagement.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\system.directoryservices.protocols\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll",
         "C:\\Users\\RPATraining\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
@@ -208,125 +210,11 @@
     },
     {
       "Package": {
-        "Id": "Microsoft.Windows.Compatibility",
-        "Version": "5.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.componentmodel.composition\\5.0.0\\lib/netcoreapp2.0/System.ComponentModel.Composition.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.componentmodel.composition.registration\\5.0.0\\lib/netstandard2.1/System.ComponentModel.Composition.Registration.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.data.odbc\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.Data.Odbc.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.data.oledb\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Data.OleDb.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.data.sqlclient\\4.8.1\\runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.directoryservices.accountmanagement\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.AccountManagement.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.directoryservices.protocols\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.io.ports\\5.0.0\\runtimes/win/lib/netstandard2.0/System.IO.Ports.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.management\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.Management.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.private.servicemodel\\4.7.0\\lib/netstandard2.0/System.Private.ServiceModel.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.reflection.context\\5.0.0\\lib/netstandard2.1/System.Reflection.Context.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.servicemodel.duplex\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Duplex.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.servicemodel.http\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Http.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.servicemodel.nettcp\\4.7.0\\lib/netstandard2.0/System.ServiceModel.NetTcp.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.Primitives.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.servicemodel.security\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Security.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0\\lib/netstandard2.0/System.ServiceModel.Syndication.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0\\runtimes/win/lib/netstandard2.0/System.ServiceProcess.ServiceController.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.windows.compatibility\\5.0.0"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.VisualBasic",
-        "Version": "10.3.0"
+        "Id": "Microsoft.NETCore.App",
+        "Version": "2.2.8"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.visualbasic\\10.3.0"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Identity.Client",
-        "Version": "4.35.1"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib/netcoreapp2.1/Microsoft.Identity.Client.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.identity.client\\4.35.1"
-    },
-    {
-      "Package": {
-        "Id": "System.Windows.Extensions",
-        "Version": "6.0.0"
-      },
-      "Assemblies": [],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.windows.extensions\\6.0.0"
-    },
-    {
-      "Package": {
-        "Id": "runtime.win.System.Net.Primitives",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\runtime.win.system.net.primitives\\4.3.0"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.AspNet.WebApi.Client",
-        "Version": "5.2.7"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\lib/netstandard2.0/System.Net.Http.Formatting.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\lib/netstandard1.3/Newtonsoft.Json.Bson.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.Hosting",
-        "Version": "7.0.1"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\lib/net6.0/Microsoft.Extensions.Configuration.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\lib/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.3\\lib/net6.0/Microsoft.Extensions.Configuration.Binder.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\7.0.0\\lib/net6.0/Microsoft.Extensions.Configuration.CommandLine.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\7.0.0\\lib/net6.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\lib/net6.0/Microsoft.Extensions.Configuration.FileExtensions.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\lib/net6.0/Microsoft.Extensions.Configuration.Json.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\7.0.0\\lib/net6.0/Microsoft.Extensions.Configuration.UserSecrets.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\lib/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\lib/net6.0/Microsoft.Extensions.FileProviders.Physical.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\lib/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.hosting\\7.0.1\\lib/net6.0/Microsoft.Extensions.Hosting.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\7.0.0\\lib/net6.0/Microsoft.Extensions.Hosting.Abstractions.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib/net6.0/Microsoft.Extensions.Logging.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.configuration\\7.0.0\\lib/net6.0/Microsoft.Extensions.Logging.Configuration.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.console\\7.0.0\\lib/net6.0/Microsoft.Extensions.Logging.Console.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.debug\\7.0.0\\lib/net6.0/Microsoft.Extensions.Logging.Debug.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.eventlog\\7.0.0\\lib/net6.0/Microsoft.Extensions.Logging.EventLog.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.eventsource\\7.0.0\\lib/net6.0/Microsoft.Extensions.Logging.EventSource.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\lib/net6.0/Microsoft.Extensions.Options.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\lib/net6.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib/net6.0/Microsoft.Extensions.Primitives.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.hosting\\7.0.1"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.DependencyInjection",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.netcore.app\\2.2.8"
     }
   ],
   "Conflicts": [],
@@ -504,20 +392,6 @@
         {
           "Item1": "Newtonsoft.Json",
           "Item2": "[11.0.2, )"
-        }
-      ]
-    },
-    "Microsoft.AspNet.WebApi.Client": {
-      "Id": "Microsoft.AspNet.WebApi.Client",
-      "Version": "5.2.7",
-      "Dependencies": [
-        {
-          "Item1": "Newtonsoft.Json",
-          "Item2": "[10.0.1, )"
-        },
-        {
-          "Item1": "Newtonsoft.Json.Bson",
-          "Item2": "[1.0.1, )"
         }
       ]
     },
@@ -707,526 +581,99 @@
     },
     "Microsoft.Extensions.Configuration": {
       "Id": "Microsoft.Extensions.Configuration",
-      "Version": "7.0.0",
+      "Version": "3.1.6",
       "Dependencies": [
         {
           "Item1": "Microsoft.Extensions.Configuration.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Primitives",
-          "Item2": "[7.0.0, )"
+          "Item2": "[3.1.6, )"
         }
       ]
     },
     "Microsoft.Extensions.Configuration.Abstractions": {
       "Id": "Microsoft.Extensions.Configuration.Abstractions",
-      "Version": "7.0.0",
+      "Version": "3.1.6",
       "Dependencies": [
         {
           "Item1": "Microsoft.Extensions.Primitives",
-          "Item2": "[7.0.0, )"
+          "Item2": "[3.1.6, )"
         }
       ]
     },
     "Microsoft.Extensions.Configuration.Binder": {
       "Id": "Microsoft.Extensions.Configuration.Binder",
-      "Version": "7.0.3",
+      "Version": "3.1.6",
       "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.Configuration.Abstractions",
-          "Item2": "[7.0.0, )"
-        }
-      ]
-    },
-    "Microsoft.Extensions.Configuration.CommandLine": {
-      "Id": "Microsoft.Extensions.Configuration.CommandLine",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.Configuration.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
         {
           "Item1": "Microsoft.Extensions.Configuration",
-          "Item2": "[7.0.0, )"
-        }
-      ]
-    },
-    "Microsoft.Extensions.Configuration.EnvironmentVariables": {
-      "Id": "Microsoft.Extensions.Configuration.EnvironmentVariables",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.Configuration.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Configuration",
-          "Item2": "[7.0.0, )"
-        }
-      ]
-    },
-    "Microsoft.Extensions.Configuration.FileExtensions": {
-      "Id": "Microsoft.Extensions.Configuration.FileExtensions",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.Configuration.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Configuration",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.FileProviders.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.FileProviders.Physical",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Primitives",
-          "Item2": "[7.0.0, )"
-        }
-      ]
-    },
-    "Microsoft.Extensions.Configuration.Json": {
-      "Id": "Microsoft.Extensions.Configuration.Json",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.Configuration.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Configuration.FileExtensions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Configuration",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.FileProviders.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "System.Text.Json",
-          "Item2": "[7.0.0, )"
-        }
-      ]
-    },
-    "Microsoft.Extensions.Configuration.UserSecrets": {
-      "Id": "Microsoft.Extensions.Configuration.UserSecrets",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.Configuration.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Configuration.Json",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.FileProviders.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.FileProviders.Physical",
-          "Item2": "[7.0.0, )"
+          "Item2": "[3.1.6, )"
         }
       ]
     },
     "Microsoft.Extensions.DependencyInjection": {
       "Id": "Microsoft.Extensions.DependencyInjection",
-      "Version": "7.0.0",
+      "Version": "3.1.6",
       "Dependencies": [
         {
           "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
-          "Item2": "[7.0.0, )"
+          "Item2": "[3.1.6, )"
         }
       ]
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions": {
       "Id": "Microsoft.Extensions.DependencyInjection.Abstractions",
-      "Version": "7.0.0",
+      "Version": "3.1.6",
       "Dependencies": []
-    },
-    "Microsoft.Extensions.FileProviders.Abstractions": {
-      "Id": "Microsoft.Extensions.FileProviders.Abstractions",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.Primitives",
-          "Item2": "[7.0.0, )"
-        }
-      ]
-    },
-    "Microsoft.Extensions.FileProviders.Physical": {
-      "Id": "Microsoft.Extensions.FileProviders.Physical",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.FileProviders.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.FileSystemGlobbing",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Primitives",
-          "Item2": "[7.0.0, )"
-        }
-      ]
     },
     "Microsoft.Extensions.FileSystemGlobbing": {
       "Id": "Microsoft.Extensions.FileSystemGlobbing",
-      "Version": "7.0.0",
+      "Version": "5.0.0",
       "Dependencies": []
-    },
-    "Microsoft.Extensions.Hosting": {
-      "Id": "Microsoft.Extensions.Hosting",
-      "Version": "7.0.1",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.Configuration.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Configuration.Binder",
-          "Item2": "[7.0.3, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Configuration.CommandLine",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Configuration.EnvironmentVariables",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Configuration.FileExtensions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Configuration.Json",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Configuration.UserSecrets",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Configuration",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.DependencyInjection",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.FileProviders.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.FileProviders.Physical",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Hosting.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging.Configuration",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging.Console",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging.Debug",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging.EventLog",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging.EventSource",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Options",
-          "Item2": "[7.0.1, )"
-        },
-        {
-          "Item1": "System.Diagnostics.DiagnosticSource",
-          "Item2": "[7.0.1, )"
-        }
-      ]
-    },
-    "Microsoft.Extensions.Hosting.Abstractions": {
-      "Id": "Microsoft.Extensions.Hosting.Abstractions",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.Configuration.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.FileProviders.Abstractions",
-          "Item2": "[7.0.0, )"
-        }
-      ]
     },
     "Microsoft.Extensions.Logging": {
       "Id": "Microsoft.Extensions.Logging",
-      "Version": "7.0.0",
+      "Version": "3.1.6",
       "Dependencies": [
         {
-          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
-          "Item2": "[7.0.0, )"
+          "Item1": "Microsoft.Extensions.Configuration.Binder",
+          "Item2": "[3.1.6, )"
         },
         {
           "Item1": "Microsoft.Extensions.DependencyInjection",
-          "Item2": "[7.0.0, )"
+          "Item2": "[3.1.6, )"
         },
         {
           "Item1": "Microsoft.Extensions.Logging.Abstractions",
-          "Item2": "[7.0.0, )"
+          "Item2": "[3.1.6, )"
         },
         {
           "Item1": "Microsoft.Extensions.Options",
-          "Item2": "[7.0.0, )"
+          "Item2": "[3.1.6, )"
         }
       ]
     },
     "Microsoft.Extensions.Logging.Abstractions": {
       "Id": "Microsoft.Extensions.Logging.Abstractions",
-      "Version": "7.0.0",
+      "Version": "3.1.6",
       "Dependencies": []
-    },
-    "Microsoft.Extensions.Logging.Configuration": {
-      "Id": "Microsoft.Extensions.Logging.Configuration",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.Configuration.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Configuration.Binder",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Configuration",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Options.ConfigurationExtensions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Options",
-          "Item2": "[7.0.0, )"
-        }
-      ]
-    },
-    "Microsoft.Extensions.Logging.Console": {
-      "Id": "Microsoft.Extensions.Logging.Console",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging.Configuration",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Options",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "System.Text.Json",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "System.Runtime.CompilerServices.Unsafe",
-          "Item2": "[6.0.0, )"
-        }
-      ]
-    },
-    "Microsoft.Extensions.Logging.Debug": {
-      "Id": "Microsoft.Extensions.Logging.Debug",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging",
-          "Item2": "[7.0.0, )"
-        }
-      ]
-    },
-    "Microsoft.Extensions.Logging.EventLog": {
-      "Id": "Microsoft.Extensions.Logging.EventLog",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Options",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "System.Diagnostics.EventLog",
-          "Item2": "[7.0.0, )"
-        }
-      ]
-    },
-    "Microsoft.Extensions.Logging.EventSource": {
-      "Id": "Microsoft.Extensions.Logging.EventSource",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Logging",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Options",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Primitives",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "System.Text.Json",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "System.Runtime.CompilerServices.Unsafe",
-          "Item2": "[6.0.0, )"
-        }
-      ]
     },
     "Microsoft.Extensions.Options": {
       "Id": "Microsoft.Extensions.Options",
-      "Version": "7.0.1",
+      "Version": "3.1.6",
       "Dependencies": [
         {
           "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
-          "Item2": "[7.0.0, )"
+          "Item2": "[3.1.6, )"
         },
         {
           "Item1": "Microsoft.Extensions.Primitives",
-          "Item2": "[7.0.0, )"
-        }
-      ]
-    },
-    "Microsoft.Extensions.Options.ConfigurationExtensions": {
-      "Id": "Microsoft.Extensions.Options.ConfigurationExtensions",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Extensions.Configuration.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Configuration.Binder",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Options",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.Primitives",
-          "Item2": "[7.0.0, )"
+          "Item2": "[3.1.6, )"
         }
       ]
     },
     "Microsoft.Extensions.Primitives": {
       "Id": "Microsoft.Extensions.Primitives",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "System.Runtime.CompilerServices.Unsafe",
-          "Item2": "[6.0.0, )"
-        }
-      ]
+      "Version": "3.1.6",
+      "Dependencies": []
     },
     "Microsoft.Graph": {
       "Id": "Microsoft.Graph",
@@ -1266,7 +713,7 @@
     },
     "Microsoft.Identity.Client": {
       "Id": "Microsoft.Identity.Client",
-      "Version": "4.35.1",
+      "Version": "4.32.0",
       "Dependencies": []
     },
     "Microsoft.Management.Infrastructure": {
@@ -1303,6 +750,53 @@
       "Version": "2.0.0",
       "Dependencies": []
     },
+    "Microsoft.NETCore.App": {
+      "Id": "Microsoft.NETCore.App",
+      "Version": "2.2.8",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.NETCore.DotNetHostPolicy",
+          "Item2": "[2.2.8, )"
+        },
+        {
+          "Item1": "Microsoft.NETCore.Platforms",
+          "Item2": "[2.2.4, )"
+        },
+        {
+          "Item1": "Microsoft.NETCore.Targets",
+          "Item2": "[2.0.0, )"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[2.0.3, )"
+        }
+      ]
+    },
+    "Microsoft.NETCore.DotNetAppHost": {
+      "Id": "Microsoft.NETCore.DotNetAppHost",
+      "Version": "2.2.8",
+      "Dependencies": []
+    },
+    "Microsoft.NETCore.DotNetHostPolicy": {
+      "Id": "Microsoft.NETCore.DotNetHostPolicy",
+      "Version": "2.2.8",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.NETCore.DotNetHostResolver",
+          "Item2": "[2.2.8, )"
+        }
+      ]
+    },
+    "Microsoft.NETCore.DotNetHostResolver": {
+      "Id": "Microsoft.NETCore.DotNetHostResolver",
+      "Version": "2.2.8",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.NETCore.DotNetAppHost",
+          "Item2": "[2.2.8, )"
+        }
+      ]
+    },
     "Microsoft.NETCore.Platforms": {
       "Id": "Microsoft.NETCore.Platforms",
       "Version": "5.0.0",
@@ -1310,7 +804,7 @@
     },
     "Microsoft.NETCore.Targets": {
       "Id": "Microsoft.NETCore.Targets",
-      "Version": "1.1.0",
+      "Version": "2.0.0",
       "Dependencies": []
     },
     "Microsoft.NETCore.Windows.ApiSets": {
@@ -1527,24 +1021,6 @@
       "Version": "16.7.30328.74",
       "Dependencies": []
     },
-    "Microsoft.Win32.Primitives": {
-      "Id": "Microsoft.Win32.Primitives",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.NETCore.Platforms",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "Microsoft.NETCore.Targets",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        }
-      ]
-    },
     "Microsoft.Win32.Registry": {
       "Id": "Microsoft.Win32.Registry",
       "Version": "5.0.0",
@@ -1575,8 +1051,13 @@
     },
     "Microsoft.Win32.SystemEvents": {
       "Id": "Microsoft.Win32.SystemEvents",
-      "Version": "6.0.0",
-      "Dependencies": []
+      "Version": "5.0.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.NETCore.Platforms",
+          "Item2": "[5.0.0, )"
+        }
+      ]
     },
     "Microsoft.Windows.Compatibility": {
       "Id": "Microsoft.Windows.Compatibility",
@@ -1821,183 +1302,11 @@
     },
     "NETStandard.Library": {
       "Id": "NETStandard.Library",
-      "Version": "1.6.1",
+      "Version": "2.0.3",
       "Dependencies": [
         {
           "Item1": "Microsoft.NETCore.Platforms",
           "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "Microsoft.Win32.Primitives",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.AppContext",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Collections",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Collections.Concurrent",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Console",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Diagnostics.Debug",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Diagnostics.Tools",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Diagnostics.Tracing",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Globalization",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Globalization.Calendars",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.IO",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.IO.Compression",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.IO.Compression.ZipFile",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.IO.FileSystem",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.IO.FileSystem.Primitives",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Linq",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Linq.Expressions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Net.Http",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Net.Primitives",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Net.Sockets",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.ObjectModel",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Reflection",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Reflection.Extensions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Reflection.Primitives",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Resources.ResourceManager",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.Extensions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.Handles",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.InteropServices",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.InteropServices.RuntimeInformation",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.Numerics",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Security.Cryptography.Algorithms",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Security.Cryptography.Encoding",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Security.Cryptography.Primitives",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Security.Cryptography.X509Certificates",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Text.Encoding",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Text.Encoding.Extensions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Text.RegularExpressions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Threading",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Threading.Tasks",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Threading.Timer",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Xml.ReaderWriter",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Xml.XDocument",
-          "Item2": "[4.3.0, )"
         }
       ]
     },
@@ -2005,20 +1314,6 @@
       "Id": "Newtonsoft.Json",
       "Version": "13.0.1",
       "Dependencies": []
-    },
-    "Newtonsoft.Json.Bson": {
-      "Id": "Newtonsoft.Json.Bson",
-      "Version": "1.0.1",
-      "Dependencies": [
-        {
-          "Item1": "NETStandard.Library",
-          "Item2": "[1.6.1, )"
-        },
-        {
-          "Item1": "Newtonsoft.Json",
-          "Item2": "[10.0.1, )"
-        }
-      ]
     },
     "Nito.AsyncEx": {
       "Id": "Nito.AsyncEx",
@@ -2228,20 +1523,6 @@
         }
       ]
     },
-    "runtime.native.System.IO.Compression": {
-      "Id": "runtime.native.System.IO.Compression",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.NETCore.Platforms",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "Microsoft.NETCore.Targets",
-          "Item2": "[1.1.0, )"
-        }
-      ]
-    },
     "runtime.native.System.IO.Ports": {
       "Id": "runtime.native.System.IO.Ports",
       "Version": "5.0.0",
@@ -2394,66 +1675,10 @@
       "Version": "4.4.0",
       "Dependencies": []
     },
-    "runtime.win.System.Net.Primitives": {
-      "Id": "runtime.win.System.Net.Primitives",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.Win32.Primitives",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Collections",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Diagnostics.Tracing",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Globalization",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Resources.ResourceManager",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.Extensions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.Handles",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.InteropServices",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Threading",
-          "Item2": "[4.3.0, )"
-        }
-      ]
-    },
     "SharpZipLib": {
       "Id": "SharpZipLib",
       "Version": "1.2.0",
       "Dependencies": []
-    },
-    "System.AppContext": {
-      "Id": "System.AppContext",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        }
-      ]
     },
     "System.Buffers": {
       "Id": "System.Buffers",
@@ -2567,32 +1792,6 @@
         }
       ]
     },
-    "System.Console": {
-      "Id": "System.Console",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.NETCore.Platforms",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "Microsoft.NETCore.Targets",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "System.IO",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Text.Encoding",
-          "Item2": "[4.3.0, )"
-        }
-      ]
-    },
     "System.Data.DataSetExtensions": {
       "Id": "System.Data.DataSetExtensions",
       "Version": "4.6.0-preview3.19128.7",
@@ -2668,18 +1867,26 @@
     },
     "System.Diagnostics.DiagnosticSource": {
       "Id": "System.Diagnostics.DiagnosticSource",
-      "Version": "7.0.1",
-      "Dependencies": [
-        {
-          "Item1": "System.Runtime.CompilerServices.Unsafe",
-          "Item2": "[6.0.0, )"
-        }
-      ]
+      "Version": "4.7.1",
+      "Dependencies": []
     },
     "System.Diagnostics.EventLog": {
       "Id": "System.Diagnostics.EventLog",
-      "Version": "7.0.0",
-      "Dependencies": []
+      "Version": "5.0.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.NETCore.Platforms",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Win32.Registry",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.Security.Principal.Windows",
+          "Item2": "[5.0.0, )"
+        }
+      ]
     },
     "System.Diagnostics.PerformanceCounter": {
       "Id": "System.Diagnostics.PerformanceCounter",
@@ -2700,24 +1907,6 @@
         {
           "Item1": "System.Security.Principal.Windows",
           "Item2": "[5.0.0, )"
-        }
-      ]
-    },
-    "System.Diagnostics.Tools": {
-      "Id": "System.Diagnostics.Tools",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.NETCore.Platforms",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "Microsoft.NETCore.Targets",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
         }
       ]
     },
@@ -2815,11 +2004,11 @@
     },
     "System.Drawing.Common": {
       "Id": "System.Drawing.Common",
-      "Version": "6.0.0",
+      "Version": "5.0.0",
       "Dependencies": [
         {
           "Item1": "Microsoft.Win32.SystemEvents",
-          "Item2": "[6.0.0, )"
+          "Item2": "[5.0.0, )"
         }
       ]
     },
@@ -2931,114 +2120,6 @@
         {
           "Item1": "System.IO.FileSystem.AccessControl",
           "Item2": "[4.5.0, )"
-        }
-      ]
-    },
-    "System.IO.Compression": {
-      "Id": "System.IO.Compression",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.NETCore.Platforms",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "runtime.native.System",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "runtime.native.System.IO.Compression",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Buffers",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Collections",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Diagnostics.Debug",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.IO",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Resources.ResourceManager",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.Extensions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.Handles",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.InteropServices",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Text.Encoding",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Threading",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Threading.Tasks",
-          "Item2": "[4.3.0, )"
-        }
-      ]
-    },
-    "System.IO.Compression.ZipFile": {
-      "Id": "System.IO.Compression.ZipFile",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "System.Buffers",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.IO",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.IO.Compression",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.IO.FileSystem",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.IO.FileSystem.Primitives",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Resources.ResourceManager",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.Extensions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Text.Encoding",
-          "Item2": "[4.3.0, )"
         }
       ]
     },
@@ -3164,80 +2245,6 @@
         },
         {
           "Item1": "System.Runtime.Extensions",
-          "Item2": "[4.3.0, )"
-        }
-      ]
-    },
-    "System.Linq.Expressions": {
-      "Id": "System.Linq.Expressions",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "System.Collections",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Diagnostics.Debug",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Globalization",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.IO",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Linq",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.ObjectModel",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Reflection",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Reflection.Emit",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Reflection.Emit.ILGeneration",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Reflection.Emit.Lightweight",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Reflection.Extensions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Reflection.Primitives",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Reflection.TypeExtensions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Resources.ResourceManager",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.Extensions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Threading",
           "Item2": "[4.3.0, )"
         }
       ]
@@ -3468,62 +2475,6 @@
         }
       ]
     },
-    "System.Net.Sockets": {
-      "Id": "System.Net.Sockets",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.NETCore.Platforms",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "Microsoft.NETCore.Targets",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "System.IO",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Net.Primitives",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Threading.Tasks",
-          "Item2": "[4.3.0, )"
-        }
-      ]
-    },
-    "System.ObjectModel": {
-      "Id": "System.ObjectModel",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "System.Collections",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Diagnostics.Debug",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Resources.ResourceManager",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Threading",
-          "Item2": "[4.3.0, )"
-        }
-      ]
-    },
     "System.Private.ServiceModel": {
       "Id": "System.Private.ServiceModel",
       "Version": "4.7.0",
@@ -3592,28 +2543,6 @@
       "Id": "System.Reflection.Emit.Lightweight",
       "Version": "4.7.0",
       "Dependencies": []
-    },
-    "System.Reflection.Extensions": {
-      "Id": "System.Reflection.Extensions",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.NETCore.Platforms",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "Microsoft.NETCore.Targets",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "System.Reflection",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        }
-      ]
     },
     "System.Reflection.Metadata": {
       "Id": "System.Reflection.Metadata",
@@ -3695,7 +2624,7 @@
     },
     "System.Runtime.CompilerServices.Unsafe": {
       "Id": "System.Runtime.CompilerServices.Unsafe",
-      "Version": "6.0.0",
+      "Version": "5.0.0",
       "Dependencies": []
     },
     "System.Runtime.Extensions": {
@@ -3760,40 +2689,6 @@
         },
         {
           "Item1": "System.Runtime.Handles",
-          "Item2": "[4.3.0, )"
-        }
-      ]
-    },
-    "System.Runtime.InteropServices.RuntimeInformation": {
-      "Id": "System.Runtime.InteropServices.RuntimeInformation",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "runtime.native.System",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Reflection",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Reflection.Extensions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Resources.ResourceManager",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.InteropServices",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Threading",
           "Item2": "[4.3.0, )"
         }
       ]
@@ -4377,61 +3272,10 @@
         }
       ]
     },
-    "System.Text.Encoding.Extensions": {
-      "Id": "System.Text.Encoding.Extensions",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.NETCore.Platforms",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "Microsoft.NETCore.Targets",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Text.Encoding",
-          "Item2": "[4.3.0, )"
-        }
-      ]
-    },
     "System.Text.Encodings.Web": {
       "Id": "System.Text.Encodings.Web",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "System.Runtime.CompilerServices.Unsafe",
-          "Item2": "[6.0.0, )"
-        }
-      ]
-    },
-    "System.Text.Json": {
-      "Id": "System.Text.Json",
-      "Version": "7.0.0",
-      "Dependencies": [
-        {
-          "Item1": "System.Text.Encodings.Web",
-          "Item2": "[7.0.0, )"
-        },
-        {
-          "Item1": "System.Runtime.CompilerServices.Unsafe",
-          "Item2": "[6.0.0, )"
-        }
-      ]
-    },
-    "System.Text.RegularExpressions": {
-      "Id": "System.Text.RegularExpressions",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        }
-      ]
+      "Version": "5.0.0",
+      "Dependencies": []
     },
     "System.Threading": {
       "Id": "System.Threading",
@@ -4494,24 +3338,6 @@
       "Version": "4.5.4",
       "Dependencies": []
     },
-    "System.Threading.Timer": {
-      "Id": "System.Threading.Timer",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.NETCore.Platforms",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "Microsoft.NETCore.Targets",
-          "Item2": "[1.1.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        }
-      ]
-    },
     "System.ValueTuple": {
       "Id": "System.ValueTuple",
       "Version": "4.5.0",
@@ -4519,131 +3345,11 @@
     },
     "System.Windows.Extensions": {
       "Id": "System.Windows.Extensions",
-      "Version": "6.0.0",
+      "Version": "5.0.0",
       "Dependencies": [
         {
           "Item1": "System.Drawing.Common",
-          "Item2": "[6.0.0, )"
-        }
-      ]
-    },
-    "System.Xml.ReaderWriter": {
-      "Id": "System.Xml.ReaderWriter",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "System.Collections",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Diagnostics.Debug",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Globalization",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.IO",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.IO.FileSystem",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.IO.FileSystem.Primitives",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Resources.ResourceManager",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.Extensions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.InteropServices",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Text.Encoding",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Text.Encoding.Extensions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Text.RegularExpressions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Threading.Tasks",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Threading.Tasks.Extensions",
-          "Item2": "[4.3.0, )"
-        }
-      ]
-    },
-    "System.Xml.XDocument": {
-      "Id": "System.Xml.XDocument",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "System.Collections",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Diagnostics.Debug",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Diagnostics.Tools",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Globalization",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.IO",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Reflection",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Resources.ResourceManager",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime.Extensions",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Text.Encoding",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Threading",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Xml.ReaderWriter",
-          "Item2": "[4.3.0, )"
+          "Item2": "[5.0.0, )"
         }
       ]
     },
@@ -5151,16 +3857,6 @@
     },
     {
       "Package": {
-        "Id": "Microsoft.AspNet.WebApi.Client",
-        "Version": "5.2.7"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\lib\\netstandard2.0\\System.Net.Http.Formatting.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7"
-    },
-    {
-      "Package": {
         "Id": "Microsoft.AspNetCore.Connections.Abstractions",
         "Version": "3.1.6"
       },
@@ -5290,252 +3986,102 @@
     {
       "Package": {
         "Id": "Microsoft.Extensions.Configuration",
-        "Version": "7.0.0"
+        "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Configuration.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Configuration.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.Configuration.Abstractions",
-        "Version": "7.0.0"
+        "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Configuration.Abstractions.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.Configuration.Binder",
-        "Version": "7.0.3"
+        "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.3\\lib\\net6.0\\Microsoft.Extensions.Configuration.Binder.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Binder.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.3"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.Configuration.CommandLine",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Configuration.CommandLine.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\7.0.0"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.Configuration.EnvironmentVariables",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\7.0.0"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.Configuration.FileExtensions",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Configuration.FileExtensions.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.Configuration.Json",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Configuration.Json.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.Configuration.UserSecrets",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Configuration.UserSecrets.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\7.0.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.DependencyInjection",
-        "Version": "7.0.0"
+        "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.DependencyInjection.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.DependencyInjection.Abstractions",
-        "Version": "7.0.0"
+        "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.FileProviders.Abstractions",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.FileProviders.Abstractions.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.FileProviders.Physical",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.FileProviders.Physical.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.FileSystemGlobbing",
-        "Version": "7.0.0"
+        "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.FileSystemGlobbing.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\lib\\netstandard2.0\\Microsoft.Extensions.FileSystemGlobbing.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.Hosting",
-        "Version": "7.0.1"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.hosting\\7.0.1\\lib\\net6.0\\Microsoft.Extensions.Hosting.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.hosting\\7.0.1"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.Hosting.Abstractions",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Hosting.Abstractions.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\7.0.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.Logging",
-        "Version": "7.0.0"
+        "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Logging.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.Logging.Abstractions",
-        "Version": "7.0.0"
+        "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Logging.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.Logging.Configuration",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.configuration\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.Configuration.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.configuration\\7.0.0"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.Logging.Console",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.console\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.Console.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.console\\7.0.0"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.Logging.Debug",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.debug\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.Debug.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.debug\\7.0.0"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.Logging.EventLog",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.eventlog\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.EventLog.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.eventlog\\7.0.0"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.Logging.EventSource",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.eventsource\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.EventSource.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.eventsource\\7.0.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.Options",
-        "Version": "7.0.1"
+        "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\lib\\net6.0\\Microsoft.Extensions.Options.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Options.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.options\\7.0.1"
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Extensions.Options.ConfigurationExtensions",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Options.ConfigurationExtensions.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.options\\3.1.6"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.Primitives",
-        "Version": "7.0.0"
+        "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Primitives.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Primitives.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6"
     },
     {
       "Package": {
@@ -5560,12 +4106,12 @@
     {
       "Package": {
         "Id": "Microsoft.Identity.Client",
-        "Version": "4.35.1"
+        "Version": "4.32.0"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib\\netcoreapp2.1\\Microsoft.Identity.Client.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.identity.client\\4.32.0\\lib\\netcoreapp2.1\\Microsoft.Identity.Client.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.identity.client\\4.35.1"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.identity.client\\4.32.0"
     },
     {
       "Package": {
@@ -5603,6 +4149,38 @@
     },
     {
       "Package": {
+        "Id": "Microsoft.NETCore.App",
+        "Version": "2.2.8"
+      },
+      "Assemblies": [],
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.netcore.app\\2.2.8"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.NETCore.DotNetAppHost",
+        "Version": "2.2.8"
+      },
+      "Assemblies": [],
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.8"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.NETCore.DotNetHostPolicy",
+        "Version": "2.2.8"
+      },
+      "Assemblies": [],
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.8"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.NETCore.DotNetHostResolver",
+        "Version": "2.2.8"
+      },
+      "Assemblies": [],
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.8"
+    },
+    {
+      "Package": {
         "Id": "Microsoft.NETCore.Platforms",
         "Version": "5.0.0"
       },
@@ -5614,12 +4192,12 @@
     {
       "Package": {
         "Id": "Microsoft.NETCore.Targets",
-        "Version": "1.1.0"
+        "Version": "2.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\lib\\netstandard1.0\\_._"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\lib\\netstandard1.0\\_._"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0"
     },
     {
       "Package": {
@@ -5733,14 +4311,6 @@
     },
     {
       "Package": {
-        "Id": "Microsoft.Win32.Primitives",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0"
-    },
-    {
-      "Package": {
         "Id": "Microsoft.Win32.Registry",
         "Version": "5.0.0"
       },
@@ -5762,12 +4332,12 @@
     {
       "Package": {
         "Id": "Microsoft.Win32.SystemEvents",
-        "Version": "6.0.0"
+        "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\lib\\net6.0\\Microsoft.Win32.SystemEvents.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\lib\\netstandard2.0\\Microsoft.Win32.SystemEvents.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0"
     },
     {
       "Package": {
@@ -5816,10 +4386,12 @@
     {
       "Package": {
         "Id": "NETStandard.Library",
-        "Version": "1.6.1"
+        "Version": "2.0.3"
       },
-      "Assemblies": [],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\netstandard.library\\1.6.1"
+      "Assemblies": [
+        "C:\\Users\\RPATraining\\.nuget\\packages\\netstandard.library\\2.0.3\\lib\\netstandard1.0\\_._"
+      ],
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\netstandard.library\\2.0.3"
     },
     {
       "Package": {
@@ -5830,16 +4402,6 @@
         "C:\\Users\\RPATraining\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib\\netstandard2.0\\Newtonsoft.Json.dll"
       ],
       "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\newtonsoft.json\\13.0.1"
-    },
-    {
-      "Package": {
-        "Id": "Newtonsoft.Json.Bson",
-        "Version": "1.0.1"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\lib\\netstandard1.3\\Newtonsoft.Json.Bson.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1"
     },
     {
       "Package": {
@@ -6030,16 +4592,6 @@
     },
     {
       "Package": {
-        "Id": "runtime.native.System.IO.Compression",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\runtime.native.system.io.compression\\4.3.0\\lib\\netstandard1.0\\_._"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\runtime.native.system.io.compression\\4.3.0"
-    },
-    {
-      "Package": {
         "Id": "runtime.native.System.IO.Ports",
         "Version": "5.0.0"
       },
@@ -6174,14 +4726,6 @@
     },
     {
       "Package": {
-        "Id": "runtime.win.System.Net.Primitives",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\runtime.win.system.net.primitives\\4.3.0"
-    },
-    {
-      "Package": {
         "Id": "SharpZipLib",
         "Version": "1.2.0"
       },
@@ -6189,16 +4733,6 @@
         "C:\\Users\\RPATraining\\.nuget\\packages\\sharpziplib\\1.2.0\\lib\\netstandard2.0\\ICSharpCode.SharpZipLib.dll"
       ],
       "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\sharpziplib\\1.2.0"
-    },
-    {
-      "Package": {
-        "Id": "System.AppContext",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.appcontext\\4.3.0\\lib\\netstandard1.6\\System.AppContext.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.appcontext\\4.3.0"
     },
     {
       "Package": {
@@ -6280,14 +4814,6 @@
     },
     {
       "Package": {
-        "Id": "System.Console",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.console\\4.3.0"
-    },
-    {
-      "Package": {
         "Id": "System.Data.DataSetExtensions",
         "Version": "4.6.0-preview3.19128.7"
       },
@@ -6337,22 +4863,22 @@
     {
       "Package": {
         "Id": "System.Diagnostics.DiagnosticSource",
-        "Version": "7.0.1"
+        "Version": "4.7.1"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.1\\lib\\net6.0\\System.Diagnostics.DiagnosticSource.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\lib\\netstandard1.3\\System.Diagnostics.DiagnosticSource.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.1"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1"
     },
     {
       "Package": {
         "Id": "System.Diagnostics.EventLog",
-        "Version": "7.0.0"
+        "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\lib\\net6.0\\System.Diagnostics.EventLog.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\system.diagnostics.eventlog\\5.0.0\\lib\\netstandard2.0\\System.Diagnostics.EventLog.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.diagnostics.eventlog\\5.0.0"
     },
     {
       "Package": {
@@ -6363,14 +4889,6 @@
         "C:\\Users\\RPATraining\\.nuget\\packages\\system.diagnostics.performancecounter\\5.0.0\\lib\\netstandard2.0\\System.Diagnostics.PerformanceCounter.dll"
       ],
       "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.diagnostics.performancecounter\\5.0.0"
-    },
-    {
-      "Package": {
-        "Id": "System.Diagnostics.Tools",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.diagnostics.tools\\4.3.0"
     },
     {
       "Package": {
@@ -6413,12 +4931,12 @@
     {
       "Package": {
         "Id": "System.Drawing.Common",
-        "Version": "6.0.0"
+        "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.drawing.common\\6.0.0\\lib\\net6.0\\System.Drawing.Common.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\system.drawing.common\\5.0.0\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.drawing.common\\6.0.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.drawing.common\\5.0.0"
     },
     {
       "Package": {
@@ -6471,24 +4989,6 @@
         "C:\\Users\\RPATraining\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib\\netstandard2.0\\System.IO.Abstractions.dll"
       ],
       "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.io.abstractions\\3.0.10"
-    },
-    {
-      "Package": {
-        "Id": "System.IO.Compression",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.io.compression\\4.3.0"
-    },
-    {
-      "Package": {
-        "Id": "System.IO.Compression.ZipFile",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0\\lib\\netstandard1.3\\System.IO.Compression.ZipFile.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0"
     },
     {
       "Package": {
@@ -6570,16 +5070,6 @@
     },
     {
       "Package": {
-        "Id": "System.Linq.Expressions",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.linq.expressions\\4.3.0\\lib\\netstandard1.6\\System.Linq.Expressions.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.linq.expressions\\4.3.0"
-    },
-    {
-      "Package": {
         "Id": "System.Management",
         "Version": "5.0.0"
       },
@@ -6631,24 +5121,6 @@
       },
       "Assemblies": [],
       "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.net.primitives\\4.3.0"
-    },
-    {
-      "Package": {
-        "Id": "System.Net.Sockets",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.net.sockets\\4.3.0"
-    },
-    {
-      "Package": {
-        "Id": "System.ObjectModel",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.objectmodel\\4.3.0\\lib\\netstandard1.3\\System.ObjectModel.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.objectmodel\\4.3.0"
     },
     {
       "Package": {
@@ -6720,14 +5192,6 @@
     },
     {
       "Package": {
-        "Id": "System.Reflection.Extensions",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.reflection.extensions\\4.3.0"
-    },
-    {
-      "Package": {
         "Id": "System.Reflection.Metadata",
         "Version": "5.0.0"
       },
@@ -6783,12 +5247,12 @@
     {
       "Package": {
         "Id": "System.Runtime.CompilerServices.Unsafe",
-        "Version": "6.0.0"
+        "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\lib\\net6.0\\System.Runtime.CompilerServices.Unsafe.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\lib\\netcoreapp2.0\\System.Runtime.CompilerServices.Unsafe.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0"
     },
     {
       "Package": {
@@ -6813,16 +5277,6 @@
       },
       "Assemblies": [],
       "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.runtime.interopservices\\4.3.0"
-    },
-    {
-      "Package": {
-        "Id": "System.Runtime.InteropServices.RuntimeInformation",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\lib\\netstandard1.1\\System.Runtime.InteropServices.RuntimeInformation.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0"
     },
     {
       "Package": {
@@ -7047,41 +5501,13 @@
     },
     {
       "Package": {
-        "Id": "System.Text.Encoding.Extensions",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0"
-    },
-    {
-      "Package": {
         "Id": "System.Text.Encodings.Web",
-        "Version": "7.0.0"
+        "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\lib\\net6.0\\System.Text.Encodings.Web.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\lib\\netcoreapp3.0\\System.Text.Encodings.Web.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.text.encodings.web\\7.0.0"
-    },
-    {
-      "Package": {
-        "Id": "System.Text.Json",
-        "Version": "7.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.text.json\\7.0.0\\lib\\net6.0\\System.Text.Json.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.text.json\\7.0.0"
-    },
-    {
-      "Package": {
-        "Id": "System.Text.RegularExpressions",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\lib\\netstandard1.6\\System.Text.RegularExpressions.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.text.regularexpressions\\4.3.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.text.encodings.web\\5.0.0"
     },
     {
       "Package": {
@@ -7143,14 +5569,6 @@
     },
     {
       "Package": {
-        "Id": "System.Threading.Timer",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.threading.timer\\4.3.0"
-    },
-    {
-      "Package": {
         "Id": "System.ValueTuple",
         "Version": "4.5.0"
       },
@@ -7162,32 +5580,12 @@
     {
       "Package": {
         "Id": "System.Windows.Extensions",
-        "Version": "6.0.0"
+        "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.windows.extensions\\6.0.0\\lib\\net6.0\\System.Windows.Extensions.dll"
+        "C:\\Users\\RPATraining\\.nuget\\packages\\system.windows.extensions\\5.0.0\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll"
       ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.windows.extensions\\6.0.0"
-    },
-    {
-      "Package": {
-        "Id": "System.Xml.ReaderWriter",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\lib\\netstandard1.3\\System.Xml.ReaderWriter.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.xml.readerwriter\\4.3.0"
-    },
-    {
-      "Package": {
-        "Id": "System.Xml.XDocument",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\RPATraining\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\lib\\netstandard1.3\\System.Xml.XDocument.dll"
-      ],
-      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.xml.xdocument\\4.3.0"
+      "Path": "C:\\Users\\RPATraining\\.nuget\\packages\\system.windows.extensions\\5.0.0"
     },
     {
       "Package": {
