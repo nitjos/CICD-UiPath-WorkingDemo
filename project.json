@@ -3,9 +3,7 @@
   "description": "A process to implement CICD in UiPath using Jenkins",
   "main": "Main.xaml",
   "dependencies": {
-    "Microsoft.NETCore.App": "[2.2.8]",
-    "UiPath.Excel.Activities": "[2.11.3]",
-    "UiPath.Mail.Activities": "[1.12.1]",
+    "Microsoft.NETCore.App": "[1.0.0]",
     "UiPath.System.Activities": "[21.10.1]",
     "UiPath.Testing.Activities": "[22.4.2]",
     "UiPath.UIAutomation.Activities": "[21.10.2]"
